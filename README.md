@@ -7,6 +7,6 @@ Navigate to `vivaldi://experiments` and enable the setting `Allow CSS modificati
 	```sh
 	git clone https://github.com/dooory/vivaldi-css.git
 	```
-2. Navigate to `vivaldi://settings//appearance` and under the **custom ui modifications** select the repository folder
+2. Navigate to `vivaldi://settings//appearance` and under the **custom ui modifications** section select the repository folder
 
 3. Restart Vivaldi
