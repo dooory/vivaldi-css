@@ -1,3 +1,7 @@
 #panels-container {
     display: none;
 }
+
+.tab {
+	border-radius: 4px !important;
+}
