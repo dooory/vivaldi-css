@@ -1,3 +1,5 @@
+Credits to the [Cattpuccin](https://github.com/catppuccin) community for the theme
+
 ## Enabling CSS
 
 Navigate to `vivaldi://experiments` and enable the setting `Allow CSS modifications`
